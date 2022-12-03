@@ -1,0 +1,13 @@
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+.contacto{
+    width: 500px;
+    
+}
+#carou img{object-fit: cover;}
+
+.empre img{object-fit: contain;}
+.centrar{padding-top: 5%;}
